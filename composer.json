@@ -1,5 +1,5 @@
 {
-  "name": "PushPrime/php-sdk",
+  "name": "pushprime/php-sdk",
   "description": "PushPrime Official PHP SDK",
   "autoload": {
     "psr-4": {
