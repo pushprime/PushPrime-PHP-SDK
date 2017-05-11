@@ -1,6 +1,15 @@
 {
   "name": "pushprime/php-sdk",
   "description": "PushPrime Official PHP SDK",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "PushPrime",
+      "email": "support@pushprime.com",
+      "homepage": "https://pushprime.com",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "PushPrime\\": "src/"
@@ -8,5 +17,8 @@
   },
   "require": {
     "php": "^5.3.3"
+  },
+  "support": {
+    "source": "https://github.com/pushprime/PushPrime-PHP-SDK/issues"
   }
 }
